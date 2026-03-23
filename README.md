@@ -4,6 +4,10 @@
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
+<img width="664" height="905" alt="image" src="https://github.com/user-attachments/assets/ebbbb2e7-d35b-491e-b982-b7df0527438c" />
+<img width="934" height="1280" alt="image" src="https://github.com/user-attachments/assets/69316d61-38af-41e3-8b40-239eb2ad1d92" />
+
+
 
 **Mathematical Calculation**
 
